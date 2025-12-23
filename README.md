@@ -210,7 +210,7 @@ AmazonWebScrapping/
 - [**Presentation**](./Amazon_WebScrap_Analysis_ProjectPPT.pdf) - Visual summary slides
 
 ### 3. Code & Notebooks 💻
-- [**Jupyter Notebook**](./Amazon_WebScrap_Analysis. ipynb) - Interactive analysis
+- [**Jupyter Notebook**](./Amazon_WebScrap_Analysis.ipynb) - Interactive analysis
 - [**Python Script**](./Amazon_WebScrap_Analysis.py) - Standalone scraping script
 
 ### 4. Data Visualizations 📊
