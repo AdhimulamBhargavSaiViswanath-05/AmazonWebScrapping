@@ -13,7 +13,7 @@
 
 *Vasireddy Venkatadri Institute of Technology University (VVITU)*
 
-[View Abstract](./Amazon_WebScrap_Abstract. pdf) · [View Report](./Amazon_WebScrap_Analysis_Report.pdf) · [View Presentation](./Amazon_WebScrap_Analysis_ProjectPPT.pdf)
+[View Abstract](./Amazon_WebScrap_Abstract.pdf) · [View Report](./Amazon_WebScrap_Analysis_Report.pdf) · [View Presentation](./Amazon_WebScrap_Analysis_ProjectPPT.pdf)
 
 </div>
 
